@@ -6,4 +6,10 @@ It's a extruder compatible with linear trolley MGN12H on your 3D printer (exclud
 This extruder has been tested by me and is perfectly functional (assembly, disassembly, maintenance, ...).
 
 <b>Bill of Material</b>
-* TBD
+<u>Electrical</u>
+* 1x Extruder Bondtech LGX
+* 1x BL Touch
+* 1x Fan 4040 24V
+* 1x Fan 4020 Dual Ball Bearing 24V
+* ...
+* ...
